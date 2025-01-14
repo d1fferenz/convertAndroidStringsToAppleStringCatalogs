@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foo bar DE App</string>
+    <string name="description">Lorem ipsum just in german \(^-^)/</string>
+</resources>

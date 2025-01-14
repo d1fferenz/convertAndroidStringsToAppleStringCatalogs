@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "sourceLanguage": "en",
+  "strings": {
+    "app_name": {
+      "extractionState": "automated",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Foo Bar EN  App"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Foo bar DE App"
+          }
+        }
+      }
+    },
+    "description": {
+      "extractionState": "automated",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lorem impsum"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lorem ipsum just in german \\(^-^)/"
+          }
+        }
+      }
+    }
+  }
+}
